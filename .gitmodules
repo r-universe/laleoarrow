@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/laleoarrow/laleoarrow.r-universe.dev
 	branch = HEAD
+[submodule "leo.gwas"]
+	path = leo.gwas
+	url = https://github.com/laleoarrow/leo.gwas
+[submodule "leo.sc"]
+	path = leo.sc
+	url = https://github.com/laleoarrow/leo.sc
