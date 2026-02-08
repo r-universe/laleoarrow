@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/laleoarrow/laleoarrow.r-universe.dev
 	branch = HEAD
-[submodule "MRlap"]
-	path = MRlap
-	url = https://github.com/n-mounier/MRlap
 [submodule "TwoSampleMR"]
 	path = TwoSampleMR
 	url = https://github.com/MRCIEU/TwoSampleMR
